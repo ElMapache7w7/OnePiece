@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "691789547121",
+    "project_id": "onepiecewiki-d5189",
+    "storage_bucket": "onepiecewiki-d5189.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691789547121:android:b1ad4ee65a47171cb1fdd0",
+        "android_client_info": {
+          "package_name": "com.example.onepiece"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC15RT7EXb2X5MBN9OmVK4K7uUyz39eScs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691789547121:android:aa7362d654ff2115b1fdd0",
+        "android_client_info": {
+          "package_name": "com.sebastian.onepiecewiki"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC15RT7EXb2X5MBN9OmVK4K7uUyz39eScs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
